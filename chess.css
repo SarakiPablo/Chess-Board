@@ -2,6 +2,7 @@ body {
     background: #e8e7de;
     font-family: 'Montserrat', sans-serif;
   }
+  
   .chessboard {
       width: 640px;
       height: 640px;
