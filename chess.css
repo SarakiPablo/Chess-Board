@@ -24,12 +24,13 @@ body {
     display: table-cell;
     vertical-align:middle;
 }
+
 .white {
     float: left;
     width: 80px;
     height: 80px;
     background-color: #dcd3ea;
-    font-size:60px;
+    font-size: 61px;
     text-align:center;
     display: table-cell;
     vertical-align:middle;
